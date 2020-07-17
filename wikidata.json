@@ -9,6 +9,7 @@
       "label": "John Bathgate"
     },
     "statement": "Q741462$F41661C8-F384-4A4D-A8F1-D64FE05D271F",
+    "ordinal": "1",
     "start": "1870-06-13T00:00:00Z",
     "end": "1871-10-30T00:00:00Z"
   },
@@ -26,6 +27,7 @@
       "label": "Maurice O'Rorke"
     },
     "statement": "Q15486050$7B545D03-B542-4E1A-B950-861B076F72A4",
+    "ordinal": "2",
     "start": "1872-10-29T00:00:00Z",
     "end": "1874-02-20T00:00:00Z"
   },
@@ -43,6 +45,7 @@
       "label": "Charles Bowen"
     },
     "statement": "Q6793394$2BA8F503-FB91-468E-AA36-118FCB5E2A96",
+    "ordinal": "3",
     "start": "1874-02-20T00:00:00Z",
     "end": "1874-08-13T00:00:00Z"
   },
@@ -60,6 +63,7 @@
       "label": "John Sheehan"
     },
     "statement": "Q5075706$BA962396-38F9-4210-B019-34B511EA10C6",
+    "ordinal": "4",
     "start": "1874-12-16T00:00:00Z",
     "end": "1877-10-13T00:00:00Z"
   },
@@ -77,6 +81,7 @@
       "label": "William Rolleston"
     },
     "statement": "Q6257540$5FC0B865-31BC-4862-9211-E8961A0E0CB2",
+    "ordinal": "5",
     "start": "1877-10-13T00:00:00Z",
     "end": "1879-10-08T00:00:00Z"
   },
@@ -94,6 +99,7 @@
       "label": "Thomas Dick"
     },
     "statement": "Q8017737$5127D65B-487F-4839-9022-3C34D2696226",
+    "ordinal": "6",
     "start": "1880-12-15T00:00:00Z",
     "end": "1881-04-13T00:00:00Z"
   },
@@ -111,6 +117,7 @@
       "label": "Edward Conolly"
     },
     "statement": "Q7788967$6DA95028-35CA-4932-9B0D-A0261B5C2DC1",
+    "ordinal": "7",
     "start": "1881-04-13T00:00:00Z",
     "end": "1882-10-11T00:00:00Z"
   },
@@ -128,6 +135,7 @@
       "label": "Joseph Tole"
     },
     "statement": "Q5342388$C6DF6890-30F2-4036-8E1B-C1B91270970F",
+    "ordinal": "8",
     "start": "1882-10-11T00:00:00Z",
     "end": "1884-08-16T00:00:00Z"
   },
@@ -145,6 +153,7 @@
       "label": "Thomas Fergus"
     },
     "statement": "Q6287448$D54F056A-9847-4472-8208-F390E4E3941B",
+    "ordinal": "9",
     "start": "1884-08-16T00:00:00Z",
     "end": "1887-10-08T00:00:00Z"
   },
@@ -162,6 +171,7 @@
       "label": "William Russell"
     },
     "statement": "Q7789557$9F8682F5-9188-4A3F-85D4-123C8B266FD1",
+    "ordinal": "10",
     "start": "1887-10-08T00:00:00Z",
     "end": "1889-10-17T00:00:00Z"
   },
@@ -179,8 +189,96 @@
       "label": "William Pember Reeves"
     },
     "statement": "Q8017848$2949362B-6312-44C0-B4DC-311DAD400BAF",
+    "ordinal": "11",
     "start": "1889-10-17T00:00:00Z",
     "end": "1891-01-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "replaces": {
+      "value": "Q8017848",
+      "label": "William Russell"
+    },
+    "replacedBy": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "statement": "Q2580230$73895D99-C3F1-4BAF-935E-D5D6ACE53171",
+    "ordinal": "12",
+    "start": "1891-01-24T00:00:00Z",
+    "end": "1892-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "replaces": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "replacedBy": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "statement": "Q4722414$4C509E64-8925-47A8-9673-EBD76A82675F",
+    "ordinal": "13",
+    "start": "1892-05-28T00:00:00Z",
+    "end": "1893-05-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "replaces": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "replacedBy": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "statement": "Q2580230$1464D230-8645-4177-A590-61D5D1B4A9B8",
+    "start": "1893-07-20T00:00:00Z",
+    "end": "1893-09-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "replaces": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "replacedBy": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "statement": "Q4722414$CB221BDE-8A72-45FE-B21F-8DA45B2246DC",
+    "start": "1893-09-06T00:00:00Z",
+    "end": "1895-03-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2580230",
+      "label": "William Pember Reeves"
+    },
+    "replaces": {
+      "value": "Q4722414",
+      "label": "Alfred Cadman"
+    },
+    "replacedBy": {
+      "value": "Q446283",
+      "label": "William Hall-Jones"
+    },
+    "statement": "Q2580230$10F63216-21B4-454E-9CFD-8AB73F8F841F",
+    "start": "1895-03-28T00:00:00Z",
+    "end": "1896-01-10T00:00:00Z"
   },
   {
     "item": {
@@ -196,6 +294,7 @@
       "label": "Thomas Thompson"
     },
     "statement": "Q446283$8FAED8F6-35F0-4E6E-B90F-F1D28CFE935E",
+    "ordinal": "14",
     "start": "1896-01-10T00:00:00Z",
     "end": "1896-03-02T00:00:00Z"
   },
@@ -213,6 +312,7 @@
       "label": "James McGowan"
     },
     "statement": "Q7794438$8F340482-2566-40E7-9227-D40D7F6D9AAE",
+    "ordinal": "15",
     "start": "1896-03-02T00:00:00Z",
     "end": "1900-01-23T00:00:00Z"
   },
@@ -230,6 +330,7 @@
       "label": "John George Findlay"
     },
     "statement": "Q6139346$0479CB33-F84A-4691-AC0F-C125DB7BE021",
+    "ordinal": "16",
     "start": "1900-01-23T00:00:00Z",
     "end": "1909-01-06T00:00:00Z"
   },
@@ -247,8 +348,27 @@
       "label": "Josiah Hanan"
     },
     "statement": "Q6233141$DB288AAF-9D8E-4EED-9BB4-72C71FBFFF38",
+    "ordinal": "17",
     "start": "1909-01-06T00:00:00Z",
     "end": "1911-12-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6290507",
+      "label": "Josiah Hanan"
+    },
+    "replaces": {
+      "value": "Q6233141",
+      "label": "John George Findlay"
+    },
+    "replacedBy": {
+      "value": "Q4719123",
+      "label": "Alexander Herdman"
+    },
+    "statement": "Q6290507$E92FE1E5-ADCE-4CD0-AE0F-2C4CA129F44E",
+    "ordinal": "18",
+    "start": "1912-03-28T00:00:00Z",
+    "end": "1912-07-10T00:00:00Z"
   },
   {
     "item": {
@@ -264,6 +384,7 @@
       "label": "Robert McNab"
     },
     "statement": "Q4719123$0C583B86-F3BE-46F1-AE9F-2D73426CDEBB",
+    "ordinal": "19",
     "start": "1912-07-10T00:00:00Z",
     "end": "1915-08-12T00:00:00Z"
   },
@@ -281,8 +402,44 @@
       "label": "Josiah Hanan"
     },
     "statement": "Q7347577$D3A3675C-0D0F-42B4-B4F7-9F09101FF266",
+    "ordinal": "20",
     "start": "1915-08-12T00:00:00Z",
     "end": "1917-02-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6290507",
+      "label": "Josiah Hanan"
+    },
+    "replaces": {
+      "value": "Q7347577",
+      "label": "Robert McNab"
+    },
+    "replacedBy": {
+      "value": "Q3990691",
+      "label": "Thomas Wilford"
+    },
+    "statement": "Q6290507$A929E5E3-52FD-4DC5-BCC3-90D81DEDD06D",
+    "start": "1917-02-20T00:00:00Z",
+    "end": "1917-11-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3990691",
+      "label": "Thomas Wilford"
+    },
+    "replaces": {
+      "value": "Q6290507",
+      "label": "Josiah Hanan"
+    },
+    "replacedBy": {
+      "value": "Q731342",
+      "label": "Joseph Gordon Coates"
+    },
+    "statement": "Q3990691$1352DB0D-A88E-483E-A76F-09B362C521A2",
+    "ordinal": "21",
+    "start": "1917-11-14T00:00:00Z",
+    "end": "1919-08-25T00:00:00Z"
   },
   {
     "item": {
@@ -298,6 +455,7 @@
       "label": "Ernest Lee"
     },
     "statement": "Q731342$9309D440-E2F5-4C44-9468-6989ABF21DB5",
+    "ordinal": "22",
     "start": "1919-09-04T00:00:00Z",
     "end": "1920-04-03T00:00:00Z"
   },
@@ -315,6 +473,7 @@
       "label": "Francis Bell"
     },
     "statement": "Q5393444$001511A3-F9E2-4B4A-9C0D-613CA81D04A5",
+    "ordinal": "23",
     "start": "1920-04-03T00:00:00Z",
     "end": "1923-01-13T00:00:00Z"
   },
@@ -332,6 +491,7 @@
       "label": "James Parr"
     },
     "statement": "Q742508$A63BB94C-454D-4359-B9A3-34CBCEB75ED5",
+    "ordinal": "24",
     "start": "1923-01-13T00:00:00Z",
     "end": "1923-06-27T00:00:00Z"
   },
@@ -349,6 +509,7 @@
       "label": "Frank Rolleston"
     },
     "statement": "Q6140966$3E4B37E9-FADD-4D82-8BC6-F45310EFFE87",
+    "ordinal": "25",
     "start": "1923-06-27T00:00:00Z",
     "end": "1926-01-18T00:00:00Z"
   },
@@ -366,6 +527,7 @@
       "label": "William Downie Stewart Jr"
     },
     "statement": "Q5489264$B01B3574-ADB3-49F3-8B8B-9388F4908010",
+    "ordinal": "26",
     "start": "1926-01-18T00:00:00Z",
     "end": "1928-11-26T00:00:00Z"
   },
@@ -383,8 +545,26 @@
       "label": "Thomas Wilford"
     },
     "statement": "Q8007976$49C29746-1494-41B6-84A0-2751265647A1",
+    "ordinal": "27",
     "start": "1928-11-26T00:00:00Z",
     "end": "1928-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3990691",
+      "label": "Thomas Wilford"
+    },
+    "replaces": {
+      "value": "Q8007976",
+      "label": "William Downie Stewart Jr"
+    },
+    "replacedBy": {
+      "value": "Q7793965",
+      "label": "Thomas Sidey"
+    },
+    "statement": "Q3990691$A7841A78-E54B-487E-B579-D2625A94D381",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1929-12-10T00:00:00Z"
   },
   {
     "item": {
@@ -400,6 +580,7 @@
       "label": "John Cobbe"
     },
     "statement": "Q7793965$685C3481-96AD-4C87-8E08-C83C3B74A8DC",
+    "ordinal": "28",
     "start": "1929-12-18T00:00:00Z",
     "end": "1930-05-28T00:00:00Z"
   },
@@ -417,8 +598,27 @@
       "label": "Rex Mason"
     },
     "statement": "Q6226454$7DDB2D77-50C4-44DA-A686-49E22566D902",
+    "ordinal": "29",
     "start": "1930-05-28T00:00:00Z",
     "end": "1935-12-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7319248",
+      "label": "Rex Mason"
+    },
+    "replaces": {
+      "value": "Q6226454",
+      "label": "John Cobbe"
+    },
+    "replacedBy": {
+      "value": "Q958022",
+      "label": "Thomas Clifton Webb"
+    },
+    "statement": "Q7319248$27437240-5C8A-4D85-9222-D4FE19028C95",
+    "ordinal": "30",
+    "start": "1935-12-06T00:00:00Z",
+    "end": "1949-12-13T00:00:00Z"
   },
   {
     "item": {
@@ -434,6 +634,7 @@
       "label": "Jack Marshall"
     },
     "statement": "Q958022$5B81583E-2166-40E9-9539-6770FB461831",
+    "ordinal": "31",
     "start": "1949-12-13T00:00:00Z",
     "end": "1954-11-26T00:00:00Z"
   },
@@ -451,8 +652,26 @@
       "label": "Rex Mason"
     },
     "statement": "Q284733$E9B22EF5-AF4E-42FC-8789-834286FF6450",
+    "ordinal": "32",
     "start": "1954-11-26T00:00:00Z",
     "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7319248",
+      "label": "Rex Mason"
+    },
+    "replaces": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q3418260",
+      "label": "Ralph Hanan"
+    },
+    "statement": "Q7319248$CE922BEA-D87B-4415-AC8E-95D63C3564E9",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
   },
   {
     "item": {
@@ -468,6 +687,7 @@
       "label": "Dan Riddiford"
     },
     "statement": "Q3418260$F9365186-DC53-46EE-B2BD-59F83C6E1ECD",
+    "ordinal": "33",
     "start": "1960-12-12T00:00:00Z",
     "end": "1969-07-24T00:00:00Z"
   },
@@ -485,6 +705,7 @@
       "label": "Roy Jack"
     },
     "statement": "Q5214276$1159D2F6-AC24-432F-A512-00E98633B276",
+    "ordinal": "34",
     "start": "1969-12-22T00:00:00Z",
     "end": "1972-02-09T00:00:00Z"
   },
@@ -502,6 +723,7 @@
       "label": "Martyn Finlay"
     },
     "statement": "Q7372995$9AD05F5A-2027-4762-BF0C-A2CDAE11FBCC",
+    "ordinal": "35",
     "start": "1972-02-09T00:00:00Z",
     "end": "1972-12-08T00:00:00Z"
   },
@@ -519,6 +741,7 @@
       "label": "David Spence Thomson"
     },
     "statement": "Q6777626$C02B89E9-BB8D-44A0-A570-9AE34C602B50",
+    "ordinal": "36",
     "start": "1972-12-08T00:00:00Z",
     "end": "1975-12-12T00:00:00Z"
   },
@@ -536,6 +759,7 @@
       "label": "Jim McLay"
     },
     "statement": "Q5239979$3d741a13-41d4-3a34-bded-ba89157427c7",
+    "ordinal": "37",
     "start": "1975-12-12T00:00:00Z",
     "end": "1978-12-13T00:00:00Z"
   },
@@ -553,6 +777,7 @@
       "label": "Geoffrey Palmer"
     },
     "statement": "Q6135999$ab12158e-406a-d920-8890-887fcbdeaf9d",
+    "ordinal": "38",
     "start": "1978-12-13T00:00:00Z",
     "end": "1984-07-26T00:00:00Z"
   },
@@ -570,6 +795,7 @@
       "label": "Bill Jeffries"
     },
     "statement": "Q1385100$4ab10cd2-4479-5520-5f3c-06357f1fa8e4",
+    "ordinal": "39",
     "start": "1984-07-26T00:00:00Z",
     "end": "1989-08-04T00:00:00Z"
   },
@@ -587,6 +813,7 @@
       "label": "Doug Graham"
     },
     "statement": "Q4909598$c9ba5183-426b-e09f-cfc1-19328c58cf07",
+    "ordinal": "40",
     "start": "1989-08-04T00:00:00Z",
     "end": "1990-11-02T00:00:00Z"
   },
@@ -604,6 +831,7 @@
       "label": "Tony Ryall"
     },
     "statement": "Q5300516$c60d7696-4524-7e04-9db7-5812ce71d502",
+    "ordinal": "41",
     "start": "1990-11-02T00:00:00Z",
     "end": "1999-02-01T00:00:00Z"
   },
@@ -621,6 +849,7 @@
       "label": "Phil Goff"
     },
     "statement": "Q7823330$4c0eedba-45b0-060d-43c5-d4d1e143376d",
+    "ordinal": "42",
     "start": "1999-02-01T00:00:00Z",
     "end": "1999-12-05T00:00:00Z"
   },
@@ -656,6 +885,7 @@
       "label": "Annette King"
     },
     "statement": "Q6766942$0ac28628-4f72-0691-b599-ce3bf5fd7804",
+    "ordinal": "44",
     "start": "2005-10-19T00:00:00Z",
     "end": "2007-10-31T00:00:00Z"
   },
@@ -673,6 +903,7 @@
       "label": "Simon Power"
     },
     "statement": "Q4769089$D417DA94-AE0C-488E-9E71-6EE923D0FFC1",
+    "ordinal": "45",
     "start": "2007-10-31T00:00:00Z",
     "end": "2008-11-19T00:00:00Z"
   },
@@ -690,6 +921,7 @@
       "label": "Judith Collins"
     },
     "statement": "Q7519563$61E2347B-0732-41EE-ABDB-42ADCC65A33C",
+    "ordinal": "46",
     "start": "2008-11-19T00:00:00Z",
     "end": "2011-12-12T00:00:00Z"
   },
@@ -707,6 +939,7 @@
       "label": "Amy Adams"
     },
     "statement": "Q6303349$37d3c940-4dac-391c-fc84-264732127a3d",
+    "ordinal": "47",
     "start": "2011-12-12T00:00:00Z",
     "end": "2014-08-30T00:00:00Z"
   },
@@ -724,8 +957,26 @@
       "label": "Andrew Little"
     },
     "statement": "Q4451142$82a717eb-43af-4ba7-35bc-0bb413cbf84f",
+    "ordinal": "48",
     "start": "2014-08-30T00:00:00Z",
     "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5106549",
+      "label": "Chris Finlayson"
+    },
+    "replaces": {
+      "value": "Q6303349",
+      "label": "Judith Collins"
+    },
+    "replacedBy": {
+      "value": "Q4451142",
+      "label": "Amy Adams"
+    },
+    "statement": "Q5106549$0FE0823B-BAD8-4241-8082-4A5706906A64",
+    "start": "2014-08-30T00:00:00Z",
+    "end": "2014-10-08T00:00:00Z"
   },
   {
     "item": {
@@ -737,6 +988,7 @@
       "label": "Amy Adams"
     },
     "statement": "Q3561087$e239013e-434f-1955-eaa5-540180f35c63",
+    "ordinal": "49",
     "start": "2017-10-26T00:00:00Z"
   }
 ]
