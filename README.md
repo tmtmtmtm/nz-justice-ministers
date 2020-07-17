@@ -83,4 +83,5 @@ to some earlier dates too):
 
 -> https://tools.wmflabs.org/editgroups/b/wikibase-cli/72fb8c82c6d88/
 
+That gives us a final version as https://www.wikidata.org/w/index.php?title=Talk:Q6866227&oldid=1232905308
 
